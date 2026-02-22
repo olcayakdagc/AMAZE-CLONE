@@ -1,0 +1,5 @@
+{
+    "ballSpeed": 20.0,
+    "rollSpeedMultiplier": 10.0,
+    "cameraYOffset": 1.0
+}
